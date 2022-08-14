@@ -14,3 +14,7 @@ Here we have taken the IBM Cloud(Speech to Text) API key and URL to use the API 
 
 #### Project 3. Language translation
 Here we are using the language translation API to convert from one language to another language. We are also able to detect the language once the text is updated. One of the use case is Travel Guide where it will be immensely helpful.
+
+#### Project 4. Voice translation
+Analyzing the voice using IBM Watson and translating the same. COnverting Speech to text, and translating text to another language.
+
