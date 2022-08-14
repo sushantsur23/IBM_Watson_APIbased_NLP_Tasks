@@ -4,9 +4,13 @@
 
 <img src="https://www.peterfisk.com/wp-content/uploads/2016/09/ibm_watson.png">
 
-#### AI Text to speech conversion
+#### Project 1. AI Text to speech conversion
 Here we have taken the IBM Cloud(Text to Speech-w9) API key and URL to use the API for text to speech conversion and also there are examples of how we can use a different language model as well.
 
 
-#### Speech to text conversion
+#### Project 2. Speech to text conversion
 Here we have taken the IBM Cloud(Speech to Text) API key and URL to use the API for speech to text conversion and also there are examples of how we can use a different language model as well.
+
+
+#### Project 3. Language translation
+Here we are using the language translation API to convert from one language to another language. We are also able to detect the language once the text is updated. One of the use case is Travel Guide where it will be immensely helpful.
