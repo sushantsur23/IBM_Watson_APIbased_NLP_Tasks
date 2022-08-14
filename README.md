@@ -18,3 +18,5 @@ Here we are using the language translation API to convert from one language to a
 #### Project 4. Voice translation
 Analyzing the voice using IBM Watson and translating the same. COnverting Speech to text, and translating text to another language.
 
+#### Project 5. Video to text
+In this project we will consider a sample video and convert it to audio, Additionally convert video to text, we can also further save the results in a text file.
