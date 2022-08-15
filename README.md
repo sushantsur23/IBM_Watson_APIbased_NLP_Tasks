@@ -24,14 +24,25 @@ In this project we will consider a sample video and convert it to audio, Additio
 #### Project 6. Natural Language Understanding 
 <Link src="https://cloud.ibm.com/apidocs/natural-language-understanding?code=python#categories">
 Since IBM Watson Tone analyzer API has been deprecated hence Natural Langauge Understanding is the replacement with many more added features. The features are listed below with explanation of those.
+
 1) Categories :- Returns a hierarchical taxonomy of the content. For example, a news website may return categories like /international news or /arts and entertainment. The top three categories are returned by default.
+
 2) Classifications :- Classifies input using custom multi-label text classifier. For example, a custom weather classifier may return classifications such as "temperature" or "condition".
+
 3) Concepts :- Returns high-level concepts in the content. For example, a research paper about deep learning might return the concept, "Artificial Intelligence" although the term is not mentioned.
+
 4) Emotion :- Detects anger, disgust, fear, joy, or sadness that is conveyed in the content or by the context around target phrases specified in the targets parameter. You can analyze emotion for detected entities with entities.emotion and for keywords with keywords.emotion.
+
 5) Entities :- Identifies people, cities, organizations, and other entities in the content. See Entity type systems.
+
 6) Keywords :- Returns important keywords in the content. For example, analyzing a company's press release could return keywords such as "sustainability", "hybrid cloud", or "IBM".
+
 7) Metadata :- Returns information from the document, including author name, title, RSS/ATOM feeds, prominent page )image, and publication date. Supports URL and HTML input types only.
+
 8) Relations :- Recognizes when two entities are related and identifies the type of relation. For example, an awardedTo relation might connect the entities "Nobel Prize" and "Albert Einstein".
+
 9) Semantic Roles :- Parses sentences into subject, action, and object form.
+
 10) Sentiment :- Analyzes the general sentiment of your content or the sentiment toward specific target phrases. As an example, the phrase "Thank you and have a nice day!" returns a positive sentiment (score .91). You can analyze sentiment for detected entities with entities.sentiment and for keywords with keywords.sentiment .
+
 11) Syntax :- Returns information about the tokens and sentences in the input text. At least one of syntax.tokens or syntax.sentences must be specified.
