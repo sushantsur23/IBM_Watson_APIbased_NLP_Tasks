@@ -23,7 +23,7 @@ In this project we will consider a sample video and convert it to audio, Additio
 
 #### Project 6. Natural Language Understanding 
 <Link src="https://cloud.ibm.com/apidocs/natural-language-understanding?code=python#categories">
-Since IBM Watson Tone analyzer API has been deprecated hence Natural Langauge Understanding is the replacement with many more added features. The features are listed below with explanation of those.
+Since IBM Watson Tone analyzer API has been deprecated hence Natural Langauge Understanding is the replacement with many more added features. The features are listed below with explanation of those. Here I have discussed some of the main used features however others can also be tried out.
 
 1) Categories :- Returns a hierarchical taxonomy of the content. For example, a news website may return categories like /international news or /arts and entertainment. The top three categories are returned by default.
 
